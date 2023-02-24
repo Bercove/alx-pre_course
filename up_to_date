@@ -1,0 +1,8 @@
+git checkout -b update_script
+git add . 
+git commit -m 'Hot fix'
+git push orign update_script
+
+nano bash/alx 
+rm -r js 
+git checkout -b main 
